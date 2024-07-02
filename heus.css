@@ -1,0 +1,19 @@
+*{margin: 0;
+box-sizing: border-box;
+border: 1px;}
+.flex{display: flex;}
+#conteiner1{width: 960px;
+height: 47px;
+width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+background-color:#f5f5f5;
+display: flex;}
+
+#conteiner1 svg{width: 13px;
+height: 14px;}
+
+#conteiner1 ul{list-style: none;}
+
